@@ -1,6 +1,6 @@
 webpackJsonp([6],{
 
-/***/ 526:
+/***/ 527:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27,7 +27,7 @@ var InversionesPageModule = /** @class */ (function () {
                 __WEBPACK_IMPORTED_MODULE_2__inversiones__["a" /* InversionesPage */],
             ],
             imports: [
-                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__inversiones__["a" /* InversionesPage */]),
+                __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* IonicPageModule */].forChild(__WEBPACK_IMPORTED_MODULE_2__inversiones__["a" /* InversionesPage */]),
             ],
         })
     ], InversionesPageModule);
